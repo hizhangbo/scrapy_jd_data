@@ -1,0 +1,38 @@
+1500361120688	geckodriver	INFO	geckodriver 0.18.0
+1500361120694	geckodriver	INFO	Listening on 127.0.0.1:23287
+1500361122763	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1500361125923	Marionette	INFO	Listening on port 23296
+1500361126394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=0_0_817-0_0_818-0_0_3431-0_0_3743-0_0_6092-0_0_5395-0_0_5394-0_0_3789-0_0_3790-0_0_6052-0_0_4035-0_0_8273&ver=20131107, line 202: unreachable code after return statement
+1500361152021	Marionette	INFO	New connections will no longer be accepted
+1500361391868	geckodriver	INFO	geckodriver 0.18.0
+1500361391873	geckodriver	INFO	Listening on 127.0.0.1:23915
+1500361393956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1500361396848	Marionette	INFO	Listening on port 23926
+1500361397093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500361415683	Marionette	INFO	New connections will no longer be accepted
+1500361416092	geckodriver	INFO	geckodriver 0.18.0
+1500361416098	geckodriver	INFO	Listening on 127.0.0.1:24061
+1500361418141	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1500361421218	Marionette	INFO	Listening on port 24071
+1500361421523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=0_0_817-0_0_818-0_0_3431-0_0_3743-0_0_6092-0_0_5395-0_0_5394-0_0_3789-0_0_3790-0_0_6052-0_0_4035-0_0_8273&ver=20131107, line 202: unreachable code after return statement
+1500361465268	Marionette	INFO	New connections will no longer be accepted
+1500361465743	geckodriver	INFO	geckodriver 0.18.0
+1500361465748	geckodriver	INFO	Listening on 127.0.0.1:24302
+1500361467821	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1500361470627	Marionette	INFO	Listening on port 24310
+1500361470941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=0_0_817-0_0_818-0_0_3431-0_0_3743-0_0_6092-0_0_5395-0_0_5394-0_0_3789-0_0_3790-0_0_6052-0_0_4035-0_0_8273&ver=20131107, line 202: unreachable code after return statement
+1500361521847	Marionette	INFO	New connections will no longer be accepted
+r	INFO	Listening on 127.0.0.1:24488
+1500361495037	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1500361497845	Marionette	INFO	Listening on port 24497
+1500361498162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=0_0_817-0_0_818-0_0_3431-0_0_3743-0_0_6092-0_0_5395-0_0_5394-0_0_3789-0_0_3790-0_0_6052-0_0_4035-0_0_8273&ver=20131107, line 202: unreachable code after return statement
+1500361522258	Marionette	INFO	New connections will no longer be accepted
