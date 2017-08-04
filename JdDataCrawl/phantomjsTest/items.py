@@ -48,4 +48,6 @@ class Jd2Item(scrapy.Item):
     price = scrapy.Field()           # 价格
     img = scrapy.Field()             # 商品图片
     detail_url = scrapy.Field()      # 详情页url
-    comments = scrapy.Field()
+    comments = scrapy.Field()        # 评价内容
+    isbn = scrapy.Field()            # isbn
+

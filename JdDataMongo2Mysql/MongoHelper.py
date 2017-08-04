@@ -9,7 +9,7 @@ def get_db():
 
 def get_collection(db):  
     # 选择集合（mongo中collection和database都是延时创建的）  
-    coll = db['comment']  
+    coll = db['new_comment']  
     # print(db.collection_names())
     return coll
 
@@ -31,7 +31,7 @@ def insert_multi_docs(db):
 
 def get_many_docs(db):  
     # mongo中提供了过滤查找的方法，可以通过各种条件筛选来获取数据集，还可以对数据进行计数，排序等处理  
-    coll = db['comment']
+    coll = db['new_comment']
     result = []
     #ASCENDING = 1 升序;DESCENDING = -1降序;default is ASCENDING  (find().sort("age", pymongo.DESCENDING))
     for item in coll.find({}, {'_id':0}):  
